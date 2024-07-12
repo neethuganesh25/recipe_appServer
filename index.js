@@ -16,7 +16,7 @@ receipeServer.use(middleware)
 receipeServer.use(router)
 
 //6 set port for server
-const PORT = 3333 ||  process.env.PORT;
+const PORT = 3000 ||  process.env.PORT;
 
 //7) run server
 receipeServer.listen(PORT,()=>{
