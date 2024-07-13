@@ -1,4 +1,42 @@
 {
+<<<<<<< HEAD
   "recipe": [],
   "category": []
+=======
+   "recipe": [
+    {
+      "Email": "abc@gmail.com",
+      "RecipeName": "Chicken Kebab",
+      "Description": "jkjhbvuuhvuvu",
+      "Ingrediants": "jbkjig",
+      "Category": "Indian",
+      "RecipeImg": "https://joyfoodsunshine.com/wp-content/uploads/2022/06/chicken-kebabs-recipe-3.jpg",
+      "url": "https://www.youtube.com/embed/bjbjb",
+      "id": 1
+    },
+    {
+      "Email": "aer@gmail.com",
+      "RecipeName": "scehzwan noodles",
+      "Description": "sfsfsr",
+      "Ingrediants": "jbjvhv",
+      "Category": "chinese",
+      "RecipeImg": "https://cheapandcheerfulcooking.com/wp-content/uploads/2021/01/chinese-fried-noodles-basic-recipe-2.jpg",
+      "url": "https://www.youtube.com/embed/hggdgrs",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Indian",
+      "allRecipe": [],
+      "id": 1
+    },
+    {
+      "categoryName": "Mexican",
+      "allRecipe": [],
+      "id": 2
+    }
+  ]
+    
+>>>>>>> 42ec4c20304b752b3c836bbad530ae4136c82300
 }
