@@ -21,6 +21,17 @@
       "id": 2
     }
   ],
-  "category": []
+  "category": [
+    {
+      "categoryName": "Indian",
+      "allRecipe": [],
+      "id": 1
+    },
+    {
+      "categoryName": "Mexican",
+      "allRecipe": [],
+      "id": 2
+    }
+  ]
     
 }
