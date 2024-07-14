@@ -1,10 +1,10 @@
 {
-   "recipe": [
+  "recipe": [
     {
       "Email": "abc@gmail.com",
       "RecipeName": "Chicken Kebab",
       "Description": "jkjhbvuuhvuvu",
-      "Ingrediants": "jbkjig",
+      "Ingrediants": "jbkjig gjgujnkhk",
       "Category": "Indian",
       "RecipeImg": "https://joyfoodsunshine.com/wp-content/uploads/2022/06/chicken-kebabs-recipe-3.jpg",
       "url": "https://www.youtube.com/embed/bjbjb",
@@ -14,11 +14,21 @@
       "Email": "aer@gmail.com",
       "RecipeName": "scehzwan noodles",
       "Description": "sfsfsr",
-      "Ingrediants": "jbjvhv",
+      "Ingrediants": "jbjvhv\nsonu",
       "Category": "chinese",
       "RecipeImg": "https://cheapandcheerfulcooking.com/wp-content/uploads/2021/01/chinese-fried-noodles-basic-recipe-2.jpg",
       "url": "https://www.youtube.com/embed/hggdgrs",
       "id": 2
+    },
+    {
+      "Email": "xyz@gmail.com",
+      "RecipeName": "Chicken Biriyani",
+      "Description": "csdcbjdcbd",
+      "Ingrediants": "  kjbkkj sonu",
+      "Category": " n jb",
+      "RecipeImg": "noinoin",
+      "url": "https://www.youtube.com/embed/jlooi",
+      "id": 3
     }
   ],
   "category": [
@@ -33,5 +43,4 @@
       "id": 2
     }
   ]
-    
 }
