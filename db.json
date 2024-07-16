@@ -47,11 +47,59 @@
       "categoryName": "Spanish",
       "allRecipe": [],
       "id": 3
+    },
+    {
+      "name": "vaz",
+      "description": "kjaskjc",
+      "rating": "4",
+      "id": 4
+    },
+    {
+      "name": "vaz",
+      "description": "asbc",
+      "rating": "5",
+      "id": 5
+    },
+    {
+      "name": "vaz",
+      "description": "hvhgh",
+      "rating": "4",
+      "id": 6
+    },
+    {
+      "name": "vaz",
+      "description": "bjsadjbcvj",
+      "rating": "jhads",
+      "id": 7
+    },
+    {
+      "name": "vaz",
+      "description": "vhhg",
+      "rating": "4",
+      "id": 8
+    }
+  ],
+  "feedbacks": [
+    {
+      "name": "Ajith",
+      "description": "\"Manage your recipes effortlessly with our app—upload, categorize, and stay updated, all in one place!\"",
+      "rating": "4",
+      "id": 1
+    },
+    {
+      "name": "Mini",
+      "description": "\"I'm glad you find the app helpful! It's designed to make managing recipes easier. \"",
+      "rating": "3",
+      "id": 2
     }
   ]
 
+}
+
+
 
 }
 
 }
 
+ 
