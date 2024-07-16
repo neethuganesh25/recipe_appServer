@@ -9,33 +9,27 @@
 
     {
       "Email": "abc@gmail.com",
-      "RecipeName": "Chicken Kebab",
+      "RecipeName": "Chicken ",
       "Description": "jkjhbvuuhvuvu",
       "Ingrediants": "jbkjig gjgujnkhk",
       "Category": "Indian",
       "RecipeImg": "https://joyfoodsunshine.com/wp-content/uploads/2022/06/chicken-kebabs-recipe-3.jpg",
       "url": "https://www.youtube.com/embed/bjbjb",
-      "id": 1
+      "id": 1,
+      "isFavorite": false,
+      "Ingredients": "sddddks"
     },
     {
       "Email": "aer@gmail.com",
-      "RecipeName": "scehzwan noodles",
+      "RecipeName": "scehzwan ",
       "Description": "sfsfsr",
       "Ingrediants": "jbjvhv\nsonu",
       "Category": "chinese",
       "RecipeImg": "https://cheapandcheerfulcooking.com/wp-content/uploads/2021/01/chinese-fried-noodles-basic-recipe-2.jpg",
       "url": "https://www.youtube.com/embed/hggdgrs",
-      "id": 2
-    },
-    {
-      "Email": "xyz@gmail.com",
-      "RecipeName": "Chicken Biriyani",
-      "Description": "csdcbjdcbd",
-      "Ingrediants": "  kjbkkj sonu",
-      "Category": " n jb",
-      "RecipeImg": "noinoin",
-      "url": "https://www.youtube.com/embed/jlooi",
-      "id": 3
+      "id": 2,
+      "isFavorite": false,
+      "Ingredients": "skdskajdka"
     }
   ],
   "category": [
@@ -48,7 +42,16 @@
       "categoryName": "Mexican",
       "allRecipe": [],
       "id": 2
+    },
+    {
+      "categoryName": "Spanish",
+      "allRecipe": [],
+      "id": 3
     }
   ]
 
+
 }
+
+}
+
